@@ -1,0 +1,8 @@
+.editorconfig
+.gitattributes
+.github
+.npmignore
+.travis.yml
+scripts
+src/programming-logos.gif
+src/programming-logos.png
