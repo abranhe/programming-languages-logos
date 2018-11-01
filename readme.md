@@ -13,10 +13,10 @@
 
 <p align="center">
     <a href="https://github.com/abranhe/porgramming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
-	<a href="https://travis-ci.org/abranhe/porgramming-languages-logos"><img src="https://img.shields.io/travis/abranhe/porgramming-languages-logos.svg?logo=travis&branch=master" /></a>
-	<a href="https://github.com/abranhe/porgramming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/porgramming-languages-logos.svg" /></a>
+	<a href="https://travis-ci.org/abranhe/programming-languages-logos"><img src="https://img.shields.io/travis/abranhe/programming-languages-logos.svg?logo=travis&branch=master" /></a>
+	<a href="https://github.com/abranhe/programming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/programming-languages-logos.svg" /></a>
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
-    <a href="https://github.com/abranhe/porgramming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/porgramming-languages-logos.svg"></a>
+    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/programming-languages-logos.svg"></a>
     <br>
     <br>
     <br>
