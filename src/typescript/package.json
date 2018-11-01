@@ -1,7 +1,7 @@
 {
-	"name": "@programming-languages-logos/c",
-	"version": "0.0.3",
-	"description": "The C Programming Language Logo",
+	"name": "@programming-languages-logos/typescript",
+	"version": "0.0.0",
+	"description": "The Typescript Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -14,16 +14,16 @@
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
   "files": [
-    "c_16x16.png",
-    "c_24x24.png",
-    "c_32x32.png",
-    "c_48x48.png",
-    "c_64x64.png",
-    "c_128x128.png",
-    "c_256x256.png",
-    "c_512x512.png",
-    "c.png",
-    "c.svg"
+    "typescript_16x16.png",
+    "typescript_24x24.png",
+    "typescript_32x32.png",
+    "typescript_48x48.png",
+    "typescript_64x64.png",
+    "typescript_128x128.png",
+    "typescript_256x256.png",
+    "typescript_512x512.png",
+    "typescript.png",
+    "typescript.svg"
   ],
 	"keywords": [
 		"programming",
@@ -32,6 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c"
+		"typescript"
 	]
 }
