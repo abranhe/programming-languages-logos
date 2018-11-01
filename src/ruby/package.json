@@ -1,7 +1,7 @@
 {
-	"name": "programming-languages-logos",
+	"name": "@programming-languages-logos/ruby",
 	"version": "0.0.0",
-	"description": "Programming Languages Logos",
+	"description": "The Ruby Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -13,10 +13,18 @@
 		"url": "https://github.com/abranhe/programming-languages-logos/issues"
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+  "files": [
+    "ruby_16x16.png",
+    "ruby_24x24.png",
+    "ruby_32x32.png",
+    "ruby_48x48.png",
+    "ruby_64x64.png",
+    "ruby_128x128.png",
+    "ruby_256x256.png",
+    "ruby_512x512.png",
+    "ruby.png",
+    "ruby.svg"
+  ],
 	"keywords": [
 		"programming",
 		"programming-languages",
@@ -24,10 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c",
-		"java",
-		"javascript",
-		"cpp",
 		"ruby"
 	]
 }

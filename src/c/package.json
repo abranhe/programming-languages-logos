@@ -1,7 +1,7 @@
 {
-	"name": "programming-languages-logos",
-	"version": "0.0.0",
-	"description": "Programming Languages Logos",
+	"name": "@programming-languages-logos/c",
+	"version": "0.0.2",
+	"description": "The C Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -13,10 +13,18 @@
 		"url": "https://github.com/abranhe/programming-languages-logos/issues"
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+  "files": [
+    "c_16x16.png",
+    "c_24x24.png",
+    "c_32x32.png",
+    "c_48x48.png",
+    "c_64x64.png",
+    "c_128x128.png",
+    "c_256x256.png",
+    "c_512x512.png",
+    "c.png",
+    "c.svg"
+  ],
 	"keywords": [
 		"programming",
 		"programming-languages",
@@ -24,10 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c",
-		"java",
-		"javascript",
-		"cpp",
-		"ruby"
+		"c"
 	]
 }

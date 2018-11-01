@@ -1,7 +1,7 @@
 {
-	"name": "programming-languages-logos",
+	"name": "@programming-languages-logos/csharp",
 	"version": "0.0.0",
-	"description": "Programming Languages Logos",
+	"description": "The C# Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -13,10 +13,18 @@
 		"url": "https://github.com/abranhe/programming-languages-logos/issues"
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+  "files": [
+    "csharp_16x16.png",
+    "csharp_24x24.png",
+    "csharp_32x32.png",
+    "csharp_48x48.png",
+    "csharp_64x64.png",
+    "csharp_128x128.png",
+    "csharp_256x256.png",
+    "csharp_512x512.png",
+    "csharp.png",
+    "csharp.svg"
+  ],
 	"keywords": [
 		"programming",
 		"programming-languages",
@@ -24,10 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c",
-		"java",
-		"javascript",
-		"cpp",
-		"ruby"
+		"csharp"
 	]
 }

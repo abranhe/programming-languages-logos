@@ -1,7 +1,7 @@
 {
-	"name": "programming-languages-logos",
+	"name": "@programming-languages-logos/java",
 	"version": "0.0.0",
-	"description": "Programming Languages Logos",
+	"description": "The Java Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -13,10 +13,18 @@
 		"url": "https://github.com/abranhe/programming-languages-logos/issues"
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+  "files": [
+    "java_16x16.png",
+    "java_24x24.png",
+    "java_32x32.png",
+    "java_48x48.png",
+    "java_64x64.png",
+    "java_128x128.png",
+    "java_256x256.png",
+    "java_512x512.png",
+    "java.png",
+    "java.svg"
+  ],
 	"keywords": [
 		"programming",
 		"programming-languages",
@@ -24,10 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c",
-		"java",
-		"javascript",
-		"cpp",
-		"ruby"
+		"java"
 	]
 }

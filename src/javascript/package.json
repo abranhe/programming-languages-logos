@@ -1,7 +1,7 @@
 {
-	"name": "programming-languages-logos",
+	"name": "@programming-languages-logos/javascript",
 	"version": "0.0.0",
-	"description": "Programming Languages Logos",
+	"description": "The Javascript Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -13,10 +13,18 @@
 		"url": "https://github.com/abranhe/programming-languages-logos/issues"
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+  "files": [
+    "javascript_16x16.png",
+    "javascript_24x24.png",
+    "javascript_32x32.png",
+    "javascript_48x48.png",
+    "javascript_64x64.png",
+    "javascript_128x128.png",
+    "javascript_256x256.png",
+    "javascript_512x512.png",
+    "javascript.png",
+    "javascript.svg"
+  ],
 	"keywords": [
 		"programming",
 		"programming-languages",
@@ -24,10 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c",
-		"java",
-		"javascript",
-		"cpp",
-		"ruby"
+		"javascript"
 	]
 }

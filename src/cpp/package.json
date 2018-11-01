@@ -1,7 +1,7 @@
 {
-	"name": "programming-languages-logos",
-	"version": "0.0.0",
-	"description": "Programming Languages Logos",
+	"name": "@programming-languages-logos/cpp",
+	"version": "0.0.1",
+	"description": "The C++ Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -13,10 +13,18 @@
 		"url": "https://github.com/abranhe/programming-languages-logos/issues"
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+  "files": [
+    "cpp_16x16.png",
+    "cpp_24x24.png",
+    "cpp_32x32.png",
+    "cpp_48x48.png",
+    "cpp_64x64.png",
+    "cpp_128x128.png",
+    "cpp_256x256.png",
+    "cpp_512x512.png",
+    "cpp.png",
+    "cpp.svg"
+  ],
 	"keywords": [
 		"programming",
 		"programming-languages",
@@ -24,10 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c",
-		"java",
-		"javascript",
-		"cpp",
-		"ruby"
+		"cpp"
 	]
 }
