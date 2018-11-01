@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="src/programming-languages-logos.gif" alt="List of programming languages logos">
+    <img src="src/programming-languages.gif" alt="List of programming languages logos">
     <br>
     <br>
     <br>
