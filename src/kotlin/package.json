@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/kotlin",
+	"version": "0.0.0",
+	"description": "The Kotlin Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "kotlin_16x16.png",
+    "kotlin_24x24.png",
+    "kotlin_32x32.png",
+    "kotlin_48x48.png",
+    "kotlin_64x64.png",
+    "kotlin_128x128.png",
+    "kotlin_256x256.png",
+    "kotlin_512x512.png",
+    "kotlin.png",
+    "kotlin.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"kotlin"
+	]
+}

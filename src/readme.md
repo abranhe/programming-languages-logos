@@ -6,7 +6,8 @@
 | ![csharp][csharp] <br><sub>C#</sub>                 |
 | ![java][java] <br><sub>Java</sub>                   |
 | ![javascript][javascript] <br><sub>Javascript</sub> |
-| ![ruby][ruby] <br><sub>Ruby</sub> |
+| ![kotlin][kotlin] <br><sub>Kotlin</sub>             |
+| ![ruby][ruby] <br><sub>Ruby</sub>                   |
 | ![typescript][typescript] <br><sub>Typescript</sub> |
 
 <!--------- Links ---------->
@@ -15,5 +16,6 @@
 [csharp]: csharp/csharp_256x256.png
 [java]: java/java_256x256.png
 [javascript]: javascript/javascript_256x256.png
+[kotlin]: kotlin/kotlin_256x256.png
 [ruby]: ruby/ruby_256x256.png
 [typescript]: typescript/typescript_256x256.png
