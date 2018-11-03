@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/php",
+	"version": "0.0.0",
+	"description": "The PHP Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "php_16x16.png",
+    "php_24x24.png",
+    "php_32x32.png",
+    "php_48x48.png",
+    "php_64x64.png",
+    "php_128x128.png",
+    "php_256x256.png",
+    "php_512x512.png",
+    "php.png",
+    "php.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"php"
+	]
+}
