@@ -9,6 +9,9 @@
     <br>
     <br>
     <b>High resolution programming languages logos</b>
+    <br>
+    <br>
+    <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
 </p>
 
 <p align="center">
@@ -58,6 +61,29 @@ You can then import the badges from `./node_modules/programming-languages-logos`
  [**jsdelivr**](https://www.jsdelivr.com/package/npm/programming-languages-logos).
 
 [Download the zip](https://github.com/abranhe/programming-languages-logos/releases/latest) from Github.
+
+We have created a simple way to use those logos in your **HTML**. First include the library & then include the `<i>` where you want it and that's it!
+
+```html
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+```
+
+*Usage*
+
+```html
+<i class="programming lang-ruby"></i>
+<i class="programming lang-javascript"></i>
+<i class="programming lang-cpp"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-kotlyn"></i>
+```
+
+*Result*
+
+<img src="https://cdn.abranhe.com/projects/programming-languages-logos-site/example.png" alt="example" width="50%">
+
+Search logos on [languages.abranhe.com](https://languages.abranhe.com).
 
 ###### Individual logos
 

@@ -38,11 +38,11 @@ declare -r -a IMAGE_SIZES=(
 )
 
 declare -r -a MAIN_PROGRAMMING_LANGUAGES=(
-    "c"
     "java"
     "ruby"
     "cpp"
     "javascript"
+    "python"
 )
 
 declare -r PROJECT_ROOT="$(dirname "${BASH_SOURCE[0]}")/.."
@@ -192,7 +192,6 @@ main() {
         "MAIN_PROGRAMMING_LANGUAGES[@]" \
         "src/programming-languages.png" \
         "$@"
-
 }
 
 main "${@%/}"
