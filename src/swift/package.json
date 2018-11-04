@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/swift",
+	"version": "0.0.0",
+	"description": "The Swift Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "swift_16x16.png",
+    "swift_24x24.png",
+    "swift_32x32.png",
+    "swift_48x48.png",
+    "swift_64x64.png",
+    "swift_128x128.png",
+    "swift_256x256.png",
+    "swift_512x512.png",
+    "swift.png",
+    "swift.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"swift"
+	]
+}
