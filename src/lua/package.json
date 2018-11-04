@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/lua",
+	"version": "0.0.0",
+	"description": "The Lua Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "lua_16x16.png",
+    "lua_24x24.png",
+    "lua_32x32.png",
+    "lua_48x48.png",
+    "lua_64x64.png",
+    "lua_128x128.png",
+    "lua_256x256.png",
+    "lua_512x512.png",
+    "lua.png",
+    "lua.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"lua"
+	]
+}
