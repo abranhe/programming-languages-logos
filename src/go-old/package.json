@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/go-old",
+	"version": "0.0.0",
+	"description": "The old Go Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "go-old_16x16.png",
+    "go-old_24x24.png",
+    "go-old_32x32.png",
+    "go-old_48x48.png",
+    "go-old_64x64.png",
+    "go-old_128x128.png",
+    "go-old_256x256.png",
+    "go-old_512x512.png",
+    "go-old.png",
+    "go-old.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"go-old"
+	]
+}
