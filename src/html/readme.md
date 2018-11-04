@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/html@0.0.0/html_256x256.png" alt="programming Languages Logo">
+    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/html@0.0.1/html_256x256.png" alt="programming Languages Logo">
     <br>
     <br>
     <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
