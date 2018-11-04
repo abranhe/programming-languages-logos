@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/html",
+	"version": "0.0.0",
+	"description": "The HTML Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "html_16x16.png",
+    "html_24x24.png",
+    "html_32x32.png",
+    "html_48x48.png",
+    "html_64x64.png",
+    "html_128x128.png",
+    "html_256x256.png",
+    "html_512x512.png",
+    "html.png",
+    "html.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"html"
+	]
+}

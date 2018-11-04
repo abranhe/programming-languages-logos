@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/css",
+	"version": "0.0.0",
+	"description": "The CSS Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "css_16x16.png",
+    "css_24x24.png",
+    "css_32x32.png",
+    "css_48x48.png",
+    "css_64x64.png",
+    "css_128x128.png",
+    "css_256x256.png",
+    "css_512x512.png",
+    "css.png",
+    "css.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"css"
+	]
+}
