@@ -1,7 +1,7 @@
 {
-	"name": "programming-languages-logos",
-	"version": "0.0.2",
-	"description": "Programming Languages Logos",
+	"name": "@programming-languages-logos/haskell",
+	"version": "0.0.0",
+	"description": "The Haskell Programming Language Logo",
 	"license": "MIT",
 	"repository": "abranhe/programming-languages-logos",
 	"author": {
@@ -13,10 +13,18 @@
 		"url": "https://github.com/abranhe/programming-languages-logos/issues"
 	},
 	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+  "files": [
+    "haskell_16x16.png",
+    "haskell_24x24.png",
+    "haskell_32x32.png",
+    "haskell_48x48.png",
+    "haskell_64x64.png",
+    "haskell_128x128.png",
+    "haskell_256x256.png",
+    "haskell_512x512.png",
+    "haskell.png",
+    "haskell.svg"
+  ],
 	"keywords": [
 		"programming",
 		"programming-languages",
@@ -24,19 +32,6 @@
 		"design",
 		"programming-logos",
 		"programming-languages-logos",
-		"c",
-		"java",
-		"javascript",
-		"cpp",
-		"ruby",
-    "go",
-    "html",
-    "lua",
-    "php",
-    "swift",
-    "typescript",
-    "haskell",
-    "r",
-    "css"
+		"haskell"
 	]
 }
