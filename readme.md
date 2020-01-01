@@ -25,7 +25,7 @@
     <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/programming-languages-logos.svg?logo=github"></a>
     <br>
     <br>
-    <b><a href="https://github.com/react-pll">Using React?</a></b>
+    <b><a href="https://github.com/abranhe/react-pll">Using React?</a></b>
     <br>
 </p>
 
