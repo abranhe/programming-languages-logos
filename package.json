@@ -9,14 +9,8 @@
 		"email": "abraham@abranhe.com",
 		"url": "https://abranhe.com"
 	},
-	"bugs": {
-		"url": "https://github.com/abranhe/programming-languages-logos/issues"
-	},
-	"homepage": "https://projects.abranhe.com/programming-languages-logos",
-	"files": [
-		"src/",
-		"readme.md"
-	],
+	"homepage": "https://languages.abranhe.com",
+	"files": [ "src/" ],
 	"keywords": [
 		"programming",
 		"programming-languages",
