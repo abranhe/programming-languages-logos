@@ -5,23 +5,27 @@
     <br>
     <br>
     <br>
+    <!-- 
+        Plese don't fix the world 'porgramming' it is not a typo.
+        Well it is a typo but a working typo :) 
+    -->
     <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
     <br>
     <br>
-    <b>High resolution programming languages logos</b>
+    <b>High Resolution Programming Languages Logos</b>
     <br>
     <br>
     <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/abranhe/porgramming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
-	<a href="https://travis-ci.org/abranhe/programming-languages-logos"><img src="https://img.shields.io/travis/abranhe/programming-languages-logos.svg?logo=travis&branch=master" /></a>
+    <a href="https://github.com/abranhe/programming-languages-logos/actions"><img src="https://github.com/abranhe/programming-languages-logos/workflows/publish/badge.svg" /></a>
+    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
 	<a href="https://github.com/abranhe/programming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/programming-languages-logos.svg" /></a>
-	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
-    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/programming-languages-logos.svg"></a>
+    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/programming-languages-logos.svg?logo=github"></a>
     <br>
     <br>
+    <b><a href="https://github.com/react-pll">Using React?</a></b>
     <br>
 </p>
 
@@ -31,7 +35,7 @@
 
 This project include high resolution `.png` with transparent backgrounds programming languages logos with different dimensions and also a vector `.svg` version of them.
 
-A complete list of the logos can be found int the [`src/`][src] directory.
+A complete list of the logos can be found int the [`src/`](https://github.com/abranhe/programming-languages-logos/blob/master/src) directory or in the [`src/languages.json`](https://github.com/abranhe/programming-languages-logos/blob/master/src/languages.json) file.
 
 ##### Dimensions
 
@@ -45,7 +49,7 @@ A complete list of the logos can be found int the [`src/`][src] directory.
 
 Default logo: `2048 x 2048`
 
-What to help? Start by reading the [contributing guidelines][contributing].
+What to help? Start by reading the [contributing guidelines](https://github.com/abranhe/programming-languages-logos/blob/master/.github/contributing.md).
 
 ## Usage
 
@@ -55,12 +59,27 @@ What to help? Start by reading the [contributing guidelines][contributing].
 $ npm install programming-languages-logos
 ```
 
-You can then import the badges from `./node_modules/programming-languages-logos`, for example `./node_modules/programming-languages-logos/src/c/c.svg`.
+You can then import the logos from `./node_modules/programming-languages-logos`.
+
+###### Example:
+ 
+ ```js
+ import swift from 'programming-languages-logos/src/swift/swift.svg'
+ ```
 
  Use the hosted version on
  [**jsdelivr**](https://www.jsdelivr.com/package/npm/programming-languages-logos).
 
-[Download the zip](https://github.com/abranhe/programming-languages-logos/releases/latest) from Github.
+
+###### Example:
+
+```html
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+```
+
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+
+Otherwise [download the zip](https://github.com/abranhe/programming-languages-logos/releases/latest) from the Github releases.
 
 We have created a simple way to use those logos in your **HTML**. First include the library & then include the `<i>` where you want it and that's it!
 
@@ -101,17 +120,12 @@ $ npm install @programming-languages-logos/java --save-dev
 
 ### Credits
 
-Mainly inspired by [Browser logos][browser-logos]. I would be imposible
+Mainly inspired by [Browser logos](https://github.com/alrra/browser-logos/). I would be imposible
 
 ### Related
 
-- [browser-logos][browser-logos]: 🗂 High resolution web browser logos.
-
-### Team
-
-|[![Carlos Abraham Logo][abranhe-img]][abranhe]|
-| :-: |
-| [Carlos Abraham][abranhe] |
+- [browser-logos](https://github.com/alrra/browser-logos/): 🗂 High resolution web browser logos.
+- [react-pll](https://github.com/react-pll): (`react-programming-languages-logos`) A Programming Language Logo component for React.
 
 ### License
 
@@ -119,17 +133,7 @@ Mainly inspired by [Browser logos][browser-logos]. I would be imposible
 
 If you represent the entity that has the rights over a logo and you
 want, for whatever reason, that logo removed from this project,
-[open an issue][repo-issues]
+[open an issue](https://github.com/abranhe/programming-languages-logos/issues/new)
 requesting its takedown and we will remove it as soon as possible.
 
-[MIT][license] License © [Carlos Abraham][abranhe]
-
-<!------------- Some links ----------------->
-[abranhe]: https://github.com/abranhe
-[abranhe-img]: https://avatars3.githubusercontent.com/u/21347264?s=50
-[repo]: https://github.com/abranhe/programming-languages-logos
-[repo-issues]: https://github.com/abranhe/programming-languages-logos/issues/new
-[license]: https://github.com/abranhe/programming-languages-logos/blob/master/license
-[browser-logos]: https://github.com/alrra/browser-logos/
-[src]: https://github.com/abranhe/programming-languages-logos/blob/master/src/readme.md#readme
-[contributing]: https://github.com/abranhe/programming-languages-logos/blob/master/.github/contributing.md
+[MIT](https://github.com/abranhe/programming-languages-logos/blob/master/license) License © [Carlos Abraham](https://github.com/abranhe)
