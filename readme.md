@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/abranhe/programming-languages-logos/actions"><img src="https://github.com/abranhe/programming-languages-logos/workflows/publish/badge.svg" /></a>
-    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
-	<a href="https://github.com/abranhe/programming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/programming-languages-logos.svg" /></a>
-    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/programming-languages-logos.svg?logo=github"></a>
+    <a href="https://github.com/abrahamcalf/programming-languages-logos/actions"><img src="https://github.com/abrhaamcalf/programming-languages-logos/workflows/publish/badge.svg" /></a>
+    <a href="https://github.com/abrhaamcalf/programming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
+	<a href="https://github.com/abrhaamcalf/programming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abrhaamcalf/programming-languages-logos.svg" /></a>
+    <a href="https://github.com/abrhaamcalf/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abrhaamcalf/programming-languages-logos.svg?logo=github"></a>
     <br>
     <br>
-    <b><a href="https://github.com/abranhe/react-pll">Using React?</a></b>
+    <b><a href="https://github.com/abrhaamcalf/react-pll">Using React?</a></b>
     <br>
 </p>
 
@@ -35,7 +35,7 @@
 
 This project include high resolution `.png` with transparent backgrounds programming languages logos with different dimensions and also a vector `.svg` version of them.
 
-A complete list of the logos can be found int the [`src/`](https://github.com/abranhe/programming-languages-logos/blob/master/src) directory or in the [`src/languages.json`](https://github.com/abranhe/programming-languages-logos/blob/master/src/languages.json) file.
+A complete list of the logos can be found int the [`src/`](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src) directory or in the [`src/languages.json`](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/languages.json) file.
 
 ##### Dimensions
 
@@ -49,7 +49,7 @@ A complete list of the logos can be found int the [`src/`](https://github.com/ab
 
 Default logo: `2048 x 2048`
 
-What to help? Start by reading the [contributing guidelines](https://github.com/abranhe/programming-languages-logos/blob/master/.github/contributing.md).
+What to help? Start by reading the [contributing guidelines](https://github.com/abrahamcalf/programming-languages-logos/blob/master/.github/contributing.md).
 
 ## Usage
 
@@ -79,7 +79,7 @@ You can then import the logos from `./node_modules/programming-languages-logos`.
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 
-Otherwise [download the zip](https://github.com/abranhe/programming-languages-logos/releases/latest) from the Github releases.
+Otherwise [download the zip](https://github.com/abrahamcalf/programming-languages-logos/releases/latest) from the Github releases.
 
 We have created a simple way to use those logos in your **HTML**. First include the library & then include the `<i>` where you want it and that's it!
 
@@ -133,7 +133,7 @@ Mainly inspired by [Browser logos](https://github.com/alrra/browser-logos/). I w
 
 If you represent the entity that has the rights over a logo and you
 want, for whatever reason, that logo removed from this project,
-[open an issue](https://github.com/abranhe/programming-languages-logos/issues/new)
+[open an issue](https://github.com/abrahamcalf/programming-languages-logos/issues/new)
 requesting its takedown and we will remove it as soon as possible.
 
-[MIT](https://github.com/abranhe/programming-languages-logos/blob/master/license) License © [Carlos Abraham](https://github.com/abranhe)
+[MIT](https://github.com/abrahamcalf/programming-languages-logos/blob/master/license) License © [Carlos Abraham](https://github.com/abrahamcalf)
