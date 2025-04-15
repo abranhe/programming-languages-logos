@@ -1,0 +1,37 @@
+{
+	"name": "@programming-languages-logos/fsharp",
+	"version": "0.0.0",
+	"description": "The F# Programming Language Logo",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Ali Baghernejad",
+		"email": "alibaghernezhad@gmail.com",
+		"url": "baghernejad.com"
+	},
+	"bugs": {
+		"url": "https://github.com/abranhe/programming-languages-logos/issues"
+	},
+	"homepage": "https://projects.abranhe.com/programming-languages-logos",
+  "files": [
+    "fsharp_16x16.png",
+    "fsharp_24x24.png",
+    "fsharp_32x32.png",
+    "fsharp_48x48.png",
+    "fsharp_64x64.png",
+    "fsharp_128x128.png",
+    "fsharp_256x256.png",
+    "fsharp_512x512.png",
+    "fsharp.png",
+    "fsharp.svg"
+  ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"fsharp"
+	]
+}

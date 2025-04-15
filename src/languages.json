@@ -3,6 +3,7 @@
   "cpp": "cpp",
   "csharp": "csharp",
   "css": "css",
+  "fsharp": "fsharp",
   "go-old": "go-old",
   "go": "go",
   "haskell": "haskell",
